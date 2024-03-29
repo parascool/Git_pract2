@@ -3,4 +3,6 @@
 }
 .head{
     color: blue;
+    display: flex;
+    text-align: center;
 }
